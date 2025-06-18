@@ -44,10 +44,15 @@ backcandles window for how far to look for patterns
 ## Separate files for different patterns
 🧠 Patterns Currently Supported
 Pattern	Status	Notes
+
 Triangle (Sym/Asc/Desc)	✅ Implemented	Uses regression on pivot points
+
 Flag / Pennant	⏳ Planned	Rapid move + consolidation detection
+
 Head & Shoulders	⏳ Planned	Detect neckline and 3-peak structure
+
 Wedge Patterns	⏳ Planned	Converging lines in trend direction
+
 Double Top / Bottom	⏳ Planned	M-pattern and W-pattern structure
 
 ## 4. Customize Watchlist (Optional)
