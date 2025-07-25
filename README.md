@@ -25,6 +25,7 @@ It processes a broad range of stocks across various sectors, identifies pivot po
 ## 🛠 Requirements
 
 - Python 3.7+
+- install pycrpytodome
 - `SmartApi` package from Angel One
 - Other libraries:
   ```bash
