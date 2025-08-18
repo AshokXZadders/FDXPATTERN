@@ -48,13 +48,10 @@ Pattern	Status	Notes
 
 Triangle (Sym/Asc/Desc)	✅ Implemented	Uses regression on pivot points
 
-Flag / Pennant	⏳ Planned	Rapid move + consolidation detection
+Demand and Supply Line/Consolidation zone finder
 
-Head & Shoulders	⏳ Planned	Detect neckline and 3-peak structure
+Co-relaion of stocks , graph plotter
 
-Wedge Patterns	⏳ Planned	Converging lines in trend direction
-
-Double Top / Bottom	⏳ Planned	M-pattern and W-pattern structure
 
 ## 4. Customize Watchlist (Optional)
 Edit watchlist.py with your desired sector or stock groupings.
