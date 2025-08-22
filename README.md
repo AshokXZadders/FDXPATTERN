@@ -52,6 +52,8 @@ Demand and Supply Line/Consolidation zone finder
 
 Co-relaion of stocks , graph plotter
 
+MACD pattern finder Bearish or Bullish
+
 
 ## 4. Customize Watchlist (Optional)
 Edit watchlist.py with your desired sector or stock groupings.
